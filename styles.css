@@ -1,0 +1,19 @@
+
+.navbar-brand{ font-family: copperplate, fantasy;
+    font-size: 35px;
+}
+
+
+/*class for cards*/ 
+.card{ width: 17rem;
+       margin: 20px 10px; 
+       float: none;     
+}
+
+/*parent container for cards*/
+.card-container{ display: flex;
+    justify-content: center;
+}
+
+.card-img-top{ height: 300px;}
+
